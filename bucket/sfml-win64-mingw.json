@@ -4,7 +4,6 @@
     "license":  "Zlib",
     "extract_dir":  "SFML-2.6.0",
     "url":  "https://www.sfml-dev.org/files/SFML-2.6.0-windows-gcc-13.1.0-mingw-64-bit.zip",
-    "architecture": "64bit",
     "homepage":  "https://www.sfml-dev.org/download.php",
     "env_add_path" : [
         "include"
